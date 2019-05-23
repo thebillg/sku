@@ -22,7 +22,7 @@ Object {
     >
     <link data-chunk="main"
           rel="stylesheet"
-          href="https://somecdn.com/vendors~main-aa8c45c865d37271f277.css"
+          href="https://somecdn.com/vendors~main-074a01ea208055cf1f03.css"
     >
     <link data-chunk="braid-design-system-themes-jobStreet"
           rel="stylesheet"
@@ -37,7 +37,7 @@ Object {
     <link data-chunk="main"
           rel="preload"
           as="script"
-          href="https://somecdn.com/vendors~main-03353112a734ffa357eb.js"
+          href="https://somecdn.com/vendors~main-565a2365f8f243f03abb.js"
           crossorigin="anonymous"
     >
     <link data-chunk="main"
@@ -140,7 +140,7 @@ Object {
     </script>
     <script async
             data-chunk="main"
-            src="https://somecdn.com/vendors~main-03353112a734ffa357eb.js"
+            src="https://somecdn.com/vendors~main-565a2365f8f243f03abb.js"
             crossorigin="anonymous"
     >
     </script>
@@ -174,7 +174,7 @@ Object {
     >
     <link data-chunk="main"
           rel="stylesheet"
-          href="https://somecdn.com/vendors~main-aa8c45c865d37271f277.css"
+          href="https://somecdn.com/vendors~main-074a01ea208055cf1f03.css"
     >
     <link data-chunk="braid-design-system-themes-seekAnz"
           rel="stylesheet"
@@ -189,7 +189,7 @@ Object {
     <link data-chunk="main"
           rel="preload"
           as="script"
-          href="https://somecdn.com/vendors~main-03353112a734ffa357eb.js"
+          href="https://somecdn.com/vendors~main-565a2365f8f243f03abb.js"
           crossorigin="anonymous"
     >
     <link data-chunk="main"
@@ -292,7 +292,7 @@ Object {
     </script>
     <script async
             data-chunk="main"
-            src="https://somecdn.com/vendors~main-03353112a734ffa357eb.js"
+            src="https://somecdn.com/vendors~main-565a2365f8f243f03abb.js"
             crossorigin="anonymous"
     >
     </script>
@@ -3859,8 +3859,7 @@ Object {
 }
 ,
   "vendors~braid-design-system-themes-wireframe.render.js": "CONTENTS IGNORED IN SNAPSHOT TEST",
-  "vendors~main-03353112a734ffa357eb.js": "CONTENTS IGNORED IN SNAPSHOT TEST",
-  "vendors~main-aa8c45c865d37271f277.css": ._1dX-8s8 {
+  "vendors~main-074a01ea208055cf1f03.css": ._1dX-8s8 {
   opacity: 0;
   position: absolute;
   height: 0;
@@ -3969,6 +3968,7 @@ Object {
   transform: rotate(270deg);
 }
 ,
+  "vendors~main-565a2365f8f243f03abb.js": "CONTENTS IGNORED IN SNAPSHOT TEST",
 }
 `;
 
